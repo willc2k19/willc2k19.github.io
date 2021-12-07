@@ -143,8 +143,8 @@ input, select, textarea {
 	}
 
 	.dark strong, .dark b {
-		color: rgb(0, 0, 0);
-		color: rgb(119, 119, 119);
+		color: rgb(255, 255, 255);
+		color: rgb(255, 255, 255);
 	}
 	
 	em, i {
@@ -2182,7 +2182,7 @@ input, select, textarea {
 	#header {
 		position: relative;
 		margin: 0;
-		background-image: url("images/overlay.png"), url("../../images/Hanley\ Park\ 1.jpg");
+		background-image: url("images/overlay.png"), url("../../images/Hanley\ Park\ 2.jpg");
 		background-size: auto, cover;
 		background-position: top left, center center;
 		background-repeat: repeat, no-repeat;
