@@ -134,7 +134,7 @@ input, select, textarea {
 	}
 
 	.dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6 {
-		color: #fff;
+		color: rgb(0, 0, 0);
 	}
 
 	strong, b {
