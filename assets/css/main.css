@@ -143,10 +143,10 @@ input, select, textarea {
 	}
 
 	.dark strong, .dark b {
-		color: #fff;
-		color: rgba(255, 255, 255, 0.85);
+		color: rgb(0, 0, 0);
+		color: rgba(0, 0, 0, 0.85);
 	}
-
+	
 	em, i {
 		font-style: italic;
 	}
