@@ -143,8 +143,8 @@ input, select, textarea {
 	}
 
 	.dark strong, .dark b {
-		color: rgb(0, 0, 0);
-		color: rgba(0, 0, 0, 0.85);
+		color: rgb(97, 97, 97);
+		color: rgba(97, 97, 97, 0.85);
 	}
 	
 	em, i {
