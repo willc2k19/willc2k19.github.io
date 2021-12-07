@@ -2188,7 +2188,7 @@ input, select, textarea {
 		background-repeat: repeat, no-repeat;
 		padding: 14em 0 14em 0;
 		text-align: center;
-		color: #fff;
+		color: rgb(0, 0, 0);
 	}
 
 		#header header h1 {
